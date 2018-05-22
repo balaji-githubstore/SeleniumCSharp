@@ -1,0 +1,12 @@
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\bin\Debug\SeleniumAutomation.exe.config
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\bin\Debug\SeleniumAutomation.exe
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\bin\Debug\SeleniumAutomation.pdb
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\bin\Debug\WebDriver.dll
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\bin\Debug\WebDriver.Support.dll
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\bin\Debug\WebDriver.xml
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\bin\Debug\WebDriver.Support.xml
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\obj\Debug\SeleniumAutomation.csproj.CoreCompileInputs.cache
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\obj\Debug\SeleniumAutomation.csproj.CopyComplete
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\obj\Debug\SeleniumAutomation.exe
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\obj\Debug\SeleniumAutomation.pdb
+D:\Mine\Company\UST-Global_Net\CSharp\SeleniumAutomation\SeleniumAutomation\obj\Debug\SeleniumAutomation.csprojResolveAssemblyReference.cache
